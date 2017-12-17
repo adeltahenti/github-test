@@ -1,2 +1,2 @@
 # github-test
-Prendre connaissance des basiques de Workflow de Git
+Prendre connaissance des basiques du Workflow de Git
